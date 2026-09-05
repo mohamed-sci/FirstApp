@@ -1,0 +1,14 @@
+D:\FirstApp\bin\Debug\net10.0\FirstApp.exe
+D:\FirstApp\bin\Debug\net10.0\FirstApp.deps.json
+D:\FirstApp\bin\Debug\net10.0\FirstApp.runtimeconfig.json
+D:\FirstApp\bin\Debug\net10.0\FirstApp.dll
+D:\FirstApp\bin\Debug\net10.0\FirstApp.pdb
+D:\FirstApp\obj\Debug\net10.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FirstApp\obj\Debug\net10.0\FirstApp.AssemblyInfoInputs.cache
+D:\FirstApp\obj\Debug\net10.0\FirstApp.AssemblyInfo.cs
+D:\FirstApp\obj\Debug\net10.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\FirstApp\obj\Debug\net10.0\FirstApp.dll
+D:\FirstApp\obj\Debug\net10.0\refint\FirstApp.dll
+D:\FirstApp\obj\Debug\net10.0\FirstApp.pdb
+D:\FirstApp\obj\Debug\net10.0\FirstApp.genruntimeconfig.cache
+D:\FirstApp\obj\Debug\net10.0\ref\FirstApp.dll
